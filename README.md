@@ -43,7 +43,7 @@ In your program, specify the keys you want to extract. For example:
 ```
 const char *keys[] = {"1",  "6", "7", "8", "10"};
 int key_count = 5;
-
+```
 ## Run the Program
 ```
 ./json_extractor
